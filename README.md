@@ -1,0 +1,2 @@
+# Obsidian-Snippets
+ Obsidian snippets
